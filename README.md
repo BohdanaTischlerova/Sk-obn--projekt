@@ -1,1 +1,1 @@
-# Skúšobný projekt
+# Skusobny projekt
